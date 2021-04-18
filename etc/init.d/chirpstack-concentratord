@@ -1,4 +1,4 @@
-#!/bin/sh
+#!/bin/bash
 
 NAME="chirpstack-concentratord"
 DESC="ChirpStack Concentratord"
